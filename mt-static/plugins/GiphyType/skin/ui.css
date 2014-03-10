@@ -1,0 +1,10 @@
+.mtSkin span.mce_giphytype {
+  background: transparent url("../skin/img/giphyiconoff20px.png") no-repeat scroll center center !important;
+  width: 16px !important;
+}
+
+.mtSkin span.mce_giphytype:hover {
+  background-image: url("../skin/img/giphyicon20px.png") !important;
+  width: 16px !important;
+}
+

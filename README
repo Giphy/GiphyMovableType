@@ -1,0 +1,46 @@
+=== GiphyType ===
+Contributors: dfinkler (dan@giphy.com), jnhasty (nick@giphy.com)
+Tags: gif, tinymce, wizard, embed
+License: GPLv2 or later
+License URI: http://www.gnu.org/licenses/gpl-2.0.html
+
+This plugin that allows you to inject Giphy GIFs into your Moveable Type posts with ease. 
+
+== Description ==
+
+Add some flava to your blog with the Giphy MoveableType plugin!! Animated GIFs are a proven way to improve
+traffic, increase time on site, and promote sharing on social media platforms. Don't take our word for it,
+blogs have already utilized Giphy GIFs to boost the popularity of their posts.
+
+Adding a GIF with the Giphy plugin couldn't be easier. Just click the Giphy logo button in the text editor,
+search or browse via tags to find GIFs, and click on a GIF to get a better view. Once you've found the GIF you
+want, simply click the "Embed into Post" button, and, voila!, the GIF is automatically inserted into your
+post. 
+
+== Installation ==
+
+1. copy the 'GiphyType' directory to your root moveable type directory.
+2. go to your admin and enable the GiphyType plugin in the Moveable Type plugins admin.
+3. once the plugin is enabled you should see the Giphy logo in your tinymce editor rich-text editor panel!
+
+== Frequently Asked Questions ==
+
+1. How can I see the GIF once I embed it into my post?
+For the time being, you can only see the contents of your embedded GIF by previewing the post itself. We're working on a better solution for later versions so you can see the preview inline!
+
+2. Do I have to attribute credit for any of the GIFs I embed in my post?
+No, but it would be really nice of your to mention that you found your great GIF content on www.giphy.com! 
+
+3. Can I use your GIFs for commercial purposes?
+Non-commercial use of our content falls under "fair use" and is a-OK! However, commercial use is subject to the copyright of the original content owner.  
+We try to have the correct source URL of the gif if possible and commercial use questions should be directed to the original source.  If the GIF is from one our our partners (or GIF artists) we can help obtain rights for commercial use. 
+Just email us at support@giphy.com and we'll help sort you out.
+
+== Changelog ==
+
+= 1.0 =
+* Initial public release
+
+== Upgrade Notice ==
+
+** No updates yet!

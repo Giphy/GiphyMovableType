@@ -1,0 +1,15 @@
+id: GiphyType 
+name: GiphyType
+version: 1.0
+author_link: http://www.giphy.com/
+author_name: Giphy Labs 
+description: <MT_TRANS phrase="Embed GIFS into your Movable Type posts with ease.">
+l10n_class: GiphyType::L10N
+
+settings:
+    api_key:
+    api_host: 
+
+editors:
+    tinymce:
+        extension: extension.tmpl 
